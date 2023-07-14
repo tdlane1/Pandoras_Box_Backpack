@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Pandora's Box Backpack Z</h3>
+  <h3 align="center">Pandora's Box Backpack</h3>
 
 
 <p align="left">
