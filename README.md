@@ -1,13 +1,7 @@
 <br/>
 <p align="center">
-  <h3 align="center">Voron Trident Belted Z</h3>
+  <h3 align="center">Pandora's Box Backpack Z</h3>
 
-  <p align="center">
-    Belt all the things.
-    <br/>
-    <br/>
-  </p>
-</p>
 
 <p align="left">
   <img src="images/PBK_iso.png" width="400">
